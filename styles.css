@@ -43,6 +43,11 @@ nav > ul > li {
   display: block;
 }
 
+
+li > a {
+  color: #dfdfe2;
+}
+
 h1,h2 {
   font-family: Verdana, sans-serif;
 }
