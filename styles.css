@@ -101,9 +101,14 @@ input {
   font-size: 1rem;
 }
 
-.info > input {
+.info  input {
   width: 50%;
   text-align: left;
+}
+
+.info  label {
+  width: 10%;
+  min-width: 55px;
 }
 
 h3:before {
