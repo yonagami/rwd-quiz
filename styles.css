@@ -98,7 +98,12 @@ h2 {
 }
 
 input {
-  font-size: 13px;
+  font-size: 1rem;
+}
+
+.info > input {
+  width: 50%;
+  text-align: left;
 }
 
 h3:before {
