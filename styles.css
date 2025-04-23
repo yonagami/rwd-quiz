@@ -92,6 +92,15 @@ h2 {
   padding: 1px 0 0 1px;
 }
 
+.formrow {
+  margin: 1px 0 0 0;
+  padding: 0 1px 0 1px;
+}
+
+input {
+  font-size: 13px;
+}
+
 h3:before {
   content: "Question #"
 }
